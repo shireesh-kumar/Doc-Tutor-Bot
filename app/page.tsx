@@ -17,18 +17,6 @@ export default async function Home() {
       icon: "🃏",
       href: "/flashcards",
     },
-    {
-      title: "Summary",
-      description: "Get concise summaries of complex documents to quickly understand the main points and key takeaways.",
-      icon: "📝",
-      href: "/summary",
-    },
-    {
-      title: "Study Notes",
-      description: "Convert your PDFs into organized study notes with highlighted key concepts and explanations.",
-      icon: "📚",
-      href: "/notes",
-    },
   ];
 
   return (

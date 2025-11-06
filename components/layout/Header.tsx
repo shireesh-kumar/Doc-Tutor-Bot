@@ -53,12 +53,6 @@ export default function Header() {
             >
               Flash Cards
             </Link>
-            <Link
-              href="/summary"
-              className="text-gray-600 hover:text-blue-600 transition-colors"
-            >
-              Summary
-            </Link>
           </nav>
 
           {/* Auth Section */}
